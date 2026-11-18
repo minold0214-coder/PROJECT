@@ -1,0 +1,70 @@
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(612) @ 2704706000: uvm_test_top.env.scb [SCB] PASS I_SRLI rd=x17 expected=00000000
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(324) @ 2704710000: uvm_test_top.env.agt.drv [DRV] drive item : I_SLTI rd=x11 rs1=x8 rs2=x16 imm=-1 shamt=13 insn=fff42593
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(612) @ 2704736000: uvm_test_top.env.scb [SCB] PASS I_SLTI rd=x11 expected=00000001
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(324) @ 2704740000: uvm_test_top.env.agt.drv [DRV] drive item : I_ANDI rd=x14 rs1=x2 rs2=x5 imm=1958 shamt=0 insn=7a617713
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(612) @ 2704766000: uvm_test_top.env.scb [SCB] PASS I_ANDI rd=x14 expected=00000426
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(324) @ 2704770000: uvm_test_top.env.agt.drv [DRV] drive item : I_SRAI rd=x8 rs1=x21 rs2=x4 imm=1139 shamt=8 insn=408ad413
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(612) @ 2704796000: uvm_test_top.env.scb [SCB] PASS I_SRAI rd=x8 expected=00000007
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(324) @ 2704800000: uvm_test_top.env.agt.drv [DRV] drive item : R_SLL rd=x24 rs1=x21 rs2=x11 imm=1403 shamt=5 insn=00ba9c33
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(612) @ 2704826000: uvm_test_top.env.scb [SCB] PASS R_SLL rd=x24 expected=00000e46
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(324) @ 2704830000: uvm_test_top.env.agt.drv [DRV] drive item : I_SRAI rd=x10 rs1=x18 rs2=x15 imm=-1 shamt=13 insn=40d95513
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(612) @ 2704856000: uvm_test_top.env.scb [SCB] PASS I_SRAI rd=x10 expected=00000000
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(324) @ 2704860000: uvm_test_top.env.agt.drv [DRV] drive item : I_ORI rd=x1 rs1=x17 rs2=x5 imm=743 shamt=3 insn=2e78e093
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(612) @ 2704886000: uvm_test_top.env.scb [SCB] PASS I_ORI rd=x1 expected=000002e7
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(324) @ 2704890000: uvm_test_top.env.agt.drv [DRV] drive item : R_ADD rd=x17 rs1=x12 rs2=x3 imm=1829 shamt=30 insn=003608b3
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(612) @ 2704916000: uvm_test_top.env.scb [SCB] PASS R_ADD rd=x17 expected=00000004
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(324) @ 2704920000: uvm_test_top.env.agt.drv [DRV] drive item : I_SRAI rd=x21 rs1=x27 rs2=x18 imm=-185 shamt=30 insn=41edda93
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(612) @ 2704946000: uvm_test_top.env.scb [SCB] PASS I_SRAI rd=x21 expected=00000000
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(324) @ 2704950000: uvm_test_top.env.agt.drv [DRV] drive item : R_ADD rd=x7 rs1=x25 rs2=x20 imm=-979 shamt=5 insn=014c83b3
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(612) @ 2704976000: uvm_test_top.env.scb [SCB] PASS R_ADD rd=x7 expected=00000001
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(324) @ 2704980000: uvm_test_top.env.agt.drv [DRV] drive item : I_XORI rd=x26 rs1=x1 rs2=x4 imm=267 shamt=7 insn=10b0cd13
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(612) @ 2705006000: uvm_test_top.env.scb [SCB] PASS I_XORI rd=x26 expected=000003ec
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(324) @ 2705010000: uvm_test_top.env.agt.drv [DRV] drive item : R_AND rd=x12 rs1=x18 rs2=x18 imm=-786 shamt=21 insn=01297633
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(612) @ 2705036000: uvm_test_top.env.scb [SCB] PASS R_AND rd=x12 expected=00000000
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(324) @ 2705040000: uvm_test_top.env.agt.drv [DRV] drive item : R_SLTU rd=x4 rs1=x2 rs2=x20 imm=-2048 shamt=25 insn=01413233
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(612) @ 2705066000: uvm_test_top.env.scb [SCB] PASS R_SLTU rd=x4 expected=00000000
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(324) @ 2705070000: uvm_test_top.env.agt.drv [DRV] drive item : I_ANDI rd=x25 rs1=x0 rs2=x22 imm=658 shamt=14 insn=29207c93
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(612) @ 2705096000: uvm_test_top.env.scb [SCB] PASS I_ANDI rd=x25 expected=00000000
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(324) @ 2705100000: uvm_test_top.env.agt.drv [DRV] drive item : R_ADD rd=x12 rs1=x9 rs2=x11 imm=326 shamt=0 insn=00b48633
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(612) @ 2705126000: uvm_test_top.env.scb [SCB] PASS R_ADD rd=x12 expected=00000001
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(840) @ 2705130000: uvm_test_top [TEST] finished: issued=90170 checked=90170
+UVM_INFO /proj/xbuilds/SWIP/2020.2_0711_1805/installs/lin64/Vivado/2020.2/data/system_verilog/uvm_1.2/xlnx_uvm_package.sv(19968) @ 2705130000: reporter [TEST_DONE] 'run' phase is ready to proceed to the 'extract' phase
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(775) @ 2705130000: uvm_test_top.env.cov [COV] 
+[COV] Overall   = 99.49%
+[COV] Operation = 100.00%
+[COV] rd        = 100.00%
+[COV] rs1       = 100.00%
+[COV] rs2       = 100.00%
+[COV] Shift     = 100.00%
+[COV] Immediate = 100.00%
+[COV] Shift op x amount    = 100.00%
+[COV] Compare op x relation = 100.00%
+[COV] Operation x src1 kind = 98.50%
+[COV] R-ALU op x src2 kind  = 95.92%
+[COV] I-ALU op x immediate  = 100.00%
+
+UVM_INFO D:/26_AI_CAMP_1/PROJECT/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/tb_rv32i_xsim.sv(626) @ 2705130000: uvm_test_top.env.scb [SCB_RESULT] CHECKED=90170 PASS=90170 FAIL=0
+UVM_INFO /proj/xbuilds/SWIP/2020.2_0711_1805/installs/lin64/Vivado/2020.2/data/system_verilog/uvm_1.2/xlnx_uvm_package.sv(13673) @ 2705130000: reporter [UVM/REPORT/SERVER] [UVM/RELNOTES]     1
+[UVM/COMP/NAMECHECK]     1
+[TEST_DONE]     1
+[TEST]     2
+[SEQ]     8
+[SCB_RESULT]     1
+[SCB] 90170
+[RNTST]     1
+[DRV] 90170
+[COV]     1
+** Report counts by id
+UVM_FATAL :    0
+UVM_ERROR :    0
+UVM_WARNING :    0
+UVM_INFO :180356
+** Report counts by severity
+
+--- UVM Report Summary ---
+
+
+$finish called at time : 2705130 ns : File "C:\Xilinx\Vivado\2020.2\data/system_verilog/uvm_1.2/xlnx_uvm_package.sv" Line 18699
+run: Time (s): cpu = 00:00:11 ; elapsed = 00:10:07 . Memory (MB): peak = 920.844 ; gain = 0.203
+exit
+INFO: [Common 17-206] Exiting xsim at Wed Oct 21 09:42:33 2026...

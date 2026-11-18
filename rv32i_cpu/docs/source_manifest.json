@@ -1,0 +1,107 @@
+[
+  {
+    "path": "rv32i_cpu/rtl/control_unit.sv",
+    "archive_path": "04_rv32i_cpu/최종결과물/RV32I_CPU_PROJECT/project_rv32i_cpu_from_mobaxterm/rtl/control_unit.sv",
+    "sha256": "9507a09d9f9ded58a4668e79e5d12b078a5c67c8be17182b7f806f2d1fff1861"
+  },
+  {
+    "path": "rv32i_cpu/rtl/data_memory.sv",
+    "archive_path": "04_rv32i_cpu/최종결과물/RV32I_CPU_PROJECT/project_rv32i_cpu_from_mobaxterm/rtl/data_memory.sv",
+    "sha256": "d66f437ab990d991a412bc1eed3ba204d0a57ee8d3be07eaed09133d86eb1a99"
+  },
+  {
+    "path": "rv32i_cpu/rtl/datapath.sv",
+    "archive_path": "04_rv32i_cpu/최종결과물/RV32I_CPU_PROJECT/project_rv32i_cpu_from_mobaxterm/rtl/datapath.sv",
+    "sha256": "671e0a98b20f10a45dd190ff491a001402af92767a41a20ab301a7c882661fb0"
+  },
+  {
+    "path": "rv32i_cpu/rtl/define.svh",
+    "archive_path": "04_rv32i_cpu/최종결과물/RV32I_CPU_PROJECT/project_rv32i_cpu_from_mobaxterm/rtl/define.svh",
+    "sha256": "71aa68d3439c0a01145f911a0c2d67e059ca0bee728a399bfb9d3abebd73fac7"
+  },
+  {
+    "path": "rv32i_cpu/rtl/instruction_rom.sv",
+    "archive_path": "04_rv32i_cpu/최종결과물/RV32I_CPU_PROJECT/project_rv32i_cpu_from_mobaxterm/rtl/instruction_rom.sv",
+    "sha256": "c45f8db8f0d85d9b53bc6ba7df246f5a141d277ef4fec47f9dd0f62673800943"
+  },
+  {
+    "path": "rv32i_cpu/rtl/pkg/rv32i_pkg.sv",
+    "archive_path": "04_rv32i_cpu/최종결과물/RV32I_CPU_PROJECT/project_rv32i_cpu_from_mobaxterm/rtl/pkg/rv32i_pkg.sv",
+    "sha256": "9d48d99dc69574f6a39662bbe8ad682c74f73e39fee1fe28b9d2db84a8ad25f9"
+  },
+  {
+    "path": "rv32i_cpu/rtl/rom_code.mem",
+    "archive_path": "04_rv32i_cpu/최종결과물/RV32I_CPU_PROJECT/project_rv32i_cpu_from_mobaxterm/rtl/rom_code.mem",
+    "sha256": "26abb6c6bea9e8e4063d3f77b091342e7d94c3daabd9f05a51026e4200926c96"
+  },
+  {
+    "path": "rv32i_cpu/rtl/rom_code_ex1.mem",
+    "archive_path": "04_rv32i_cpu/최종결과물/RV32I_CPU_PROJECT/project_rv32i_cpu_from_mobaxterm/rtl/rom_code_ex1.mem",
+    "sha256": "04ee5c46ab7fe2e704978017342e74845404dbe93d323d17437634e24a7e3e53"
+  },
+  {
+    "path": "rv32i_cpu/rtl/rv32i_cpu.sv",
+    "archive_path": "04_rv32i_cpu/최종결과물/RV32I_CPU_PROJECT/project_rv32i_cpu_from_mobaxterm/rtl/rv32i_cpu.sv",
+    "sha256": "dc8006109dda8895e79f9d764f720f5cc97096cd05fa295b83ba0b22e519d10f"
+  },
+  {
+    "path": "rv32i_cpu/rtl/rv32i_pkg.svh",
+    "archive_path": "04_rv32i_cpu/최종결과물/RV32I_CPU_PROJECT/project_rv32i_cpu_from_mobaxterm/rtl/rv32i_pkg.svh",
+    "sha256": "35123852e91d286fa703807db0079bd313c96916a315dba7cbf837a9e609c1b1"
+  },
+  {
+    "path": "rv32i_cpu/tb/tb_rv32i.sv",
+    "archive_path": "04_rv32i_cpu/최종결과물/RV32I_CPU_PROJECT/project_rv32i_cpu_from_mobaxterm/tb/tb_rv32i.sv",
+    "sha256": "d1c88e765ba1c7fcea7777e92db1442e7b8a678bbd2143c385605d8d520c5468"
+  },
+  {
+    "path": "rv32i_cpu/docs/results/historical_result_excerpt.txt",
+    "archive_path": "04_rv32i_cpu/포트폴리오_평가자료/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/historical_result_excerpt.txt",
+    "sha256": "535230b99f82321c591684150991771e680221cfaab3c7ab2823636b0a9f5e07"
+  },
+  {
+    "path": "rv32i_cpu/docs/results/new_result_excerpt.txt",
+    "archive_path": "04_rv32i_cpu/포트폴리오_평가자료/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/new_result_excerpt.txt",
+    "sha256": "b2dbd601e0b2ab56c75f6d418bf3dac9636dc0fefd16c152d240651fce58b3aa"
+  },
+  {
+    "path": "rv32i_cpu/docs/results/historical_siminfo.xml",
+    "archive_path": "04_rv32i_cpu/포트폴리오_평가자료/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/historical_siminfo.xml",
+    "sha256": "bb40d3aa9bddbe7107e5172effed967fe0c2159476533ce4ed20197b639ce49e"
+  },
+  {
+    "path": "rv32i_cpu/docs/results/validation.json",
+    "archive_path": "04_rv32i_cpu/포트폴리오_평가자료/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/validation.json",
+    "sha256": "18b6f94c470459d3f9bd035e36d960d5282a6afe228714ea745076ec4ab24577"
+  },
+  {
+    "path": "rv32i_cpu/docs/results/historical_r_random_outputs.json",
+    "archive_path": "04_rv32i_cpu/포트폴리오_평가자료/RV32I_CPU_PROJECT/evaluation_20261021/final_mobaxterm/historical_r_random_outputs.json",
+    "sha256": "d15ee87817d657d19cbb527e678b38ecef837d2c0dab8c54760a8fed9be662ed"
+  },
+  {
+    "path": "rv32i_cpu/docs/images/after_success_wave.png",
+    "archive_path": "04_rv32i_cpu/학습자료/images/rv32i_uvm/after_success_wave.png",
+    "sha256": "5eb302aa226c6b38c18a8ae7f1118fa2e3f43cb732d7251394c82253053e356e"
+  },
+  {
+    "path": "rv32i_cpu/docs/images/after_success_log.png",
+    "archive_path": "04_rv32i_cpu/학습자료/images/rv32i_uvm/after_success_log.png",
+    "sha256": "73ac53d28319714b96aedd8223cf62f69f54bb29e7fd38d0b2fb0b6159407513"
+  },
+  {
+    "path": "rv32i_cpu/docs/images/before_error_summary.png",
+    "archive_path": "04_rv32i_cpu/학습자료/images/rv32i_uvm/before_error_summary.png",
+    "sha256": "6d3a733fa2f0747cf5b44f70c93e0c08910c183321ed76d84449c54e86576d2e"
+  },
+  {
+    "path": "rv32i_cpu/docs/images/clocking_block.png",
+    "archive_path": "04_rv32i_cpu/학습자료/images/rv32i_uvm/clocking_block.png",
+    "sha256": "5dac7dc9953895dc5bc87363f00c5ffdefb631ad65dad0f1ab46c6c321044e71"
+  },
+  {
+    "path": "rv32i_cpu/docs/images/rv32i_cpu_schmetic.png",
+    "archive_path": "04_rv32i_cpu/학습자료/images/rv32i_uvm/rv32i_cpu_schmetic.png",
+    "sha256": "7a34279464d43c4d12228dafc1077b8b5561f5f5dda91d3150b9763309e3aced"
+  }
+]

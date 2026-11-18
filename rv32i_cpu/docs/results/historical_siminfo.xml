@@ -1,0 +1,5 @@
+  <test  >
+    <srctest  simtime="2705130000 ps"  cputime="    19.440"  rssmem="298028"  peakmem="528280"  hostname="kccisynop2"  username="aedu09"  starttime="1789435591289967"  finishtime="1789458180457800"  cmdline="/home/aedu09/aedu09/project_rv32i_cpu/build/simv -cm line+cond+fsm+tgl+branch+assert -cm_dir coverage.vdb -cm_name sim1 +UVM_VERBOSITY=UVM_HIGH -sml=verdi +fsdb+gate=off -ucli2Proc -ucli -l /home/aedu09/aedu09/project_rv32i_cpu/verdiLog/sim.log"  workdir="/home/aedu09/aedu09/project_rv32i_cpu"  teststatus="unknown"  seed="1"  >
+    </srctest >
+  </test >
+

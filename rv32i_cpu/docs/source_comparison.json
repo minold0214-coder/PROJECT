@@ -1,0 +1,57 @@
+[
+  {
+    "file": "rtl/control_unit.sv",
+    "classroom_present": true,
+    "same_bytes": true
+  },
+  {
+    "file": "rtl/data_memory.sv",
+    "classroom_present": true,
+    "same_bytes": true
+  },
+  {
+    "file": "rtl/datapath.sv",
+    "classroom_present": true,
+    "same_bytes": true
+  },
+  {
+    "file": "rtl/define.svh",
+    "classroom_present": true,
+    "same_bytes": true
+  },
+  {
+    "file": "rtl/instruction_rom.sv",
+    "classroom_present": true,
+    "same_bytes": true
+  },
+  {
+    "file": "rtl/pkg/rv32i_pkg.sv",
+    "classroom_present": true,
+    "same_bytes": true
+  },
+  {
+    "file": "rtl/rom_code.mem",
+    "classroom_present": true,
+    "same_bytes": true
+  },
+  {
+    "file": "rtl/rom_code_ex1.mem",
+    "classroom_present": true,
+    "same_bytes": true
+  },
+  {
+    "file": "rtl/rv32i_cpu.sv",
+    "classroom_present": true,
+    "same_bytes": true
+  },
+  {
+    "file": "rtl/rv32i_pkg.svh",
+    "classroom_present": true,
+    "same_bytes": true
+  },
+  {
+    "file": "tb/tb_rv32i.sv",
+    "classroom_present": true,
+    "same_bytes": true
+  }
+]

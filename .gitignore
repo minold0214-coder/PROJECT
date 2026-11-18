@@ -1,0 +1,25 @@
+# Generated simulator and FPGA outputs
+**/build/
+**/vivado_project/
+**/.Xil/
+**/xsim.dir/
+**/csrc/
+**/*.daidir/
+**/*.cache/
+**/*.runs/
+**/*.sim/
+**/*.hw/
+**/*.ip_user_files/
+*.jou
+*.pb
+*.wdb
+*.fsdb
+*.vcd
+*.vvp
+*.log
+*.str
+*.bit
+*.dcp
+*.rpx
+__pycache__/
+!**/docs/reports/*.log

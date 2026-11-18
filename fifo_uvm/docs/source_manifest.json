@@ -1,0 +1,42 @@
+[
+  {
+    "path": "fifo_uvm/rtl/fifo.sv",
+    "archive_path": "03_fifo_uvm/학습자료/code/fifo_uvm/src/fifo.sv",
+    "sha256": "3aca0b71f9c09de50ab616017e26dffcbd7f8854d6402404749fcb994056f27f"
+  },
+  {
+    "path": "fifo_uvm/tb/tb_fifo_coverage.sv",
+    "archive_path": "03_fifo_uvm/학습자료/code/fifo_uvm/tb/tb_fifo_coverage.sv",
+    "sha256": "d35b168f67cd4bfba5ce1a2f0113f47b1ab5cffb78430a3a7e414a8ca205ff44"
+  },
+  {
+    "path": "fifo_uvm/tb/baseline/tb_fifo.sv",
+    "archive_path": "03_fifo_uvm/학습자료/code/fifo_uvm/tb/tb_fifo.sv",
+    "sha256": "84beacd5a634ad1f8c0b26ba2ad6905b0c2dc14d927b0c8141c857a5607fc6ae"
+  },
+  {
+    "path": "fifo_uvm/docs/diagrams/FIFO_UVM_structure.svg",
+    "archive_path": "03_fifo_uvm/발표자료/FIFO_UVM_structure.svg",
+    "sha256": "761ee0615e1e8fbc53b75429c0bc6956188310fb8c1b18db12e51d14d7d0d508"
+  },
+  {
+    "path": "fifo_uvm/docs/images/edge_empty_wave.png",
+    "archive_path": "03_fifo_uvm/학습자료/images/fifo_uvm/edge_empty_wave.png",
+    "sha256": "2dc0841ae28815c31648a984bcf22cde782653652bf196e56afb8c0745c2ff8a"
+  },
+  {
+    "path": "fifo_uvm/docs/images/edge_full_wave.png",
+    "archive_path": "03_fifo_uvm/학습자료/images/fifo_uvm/edge_full_wave.png",
+    "sha256": "5bdc7ded0ae9c720b01d121f31ede1353d579b23b7fdcc2e490fd65c1cc36d63"
+  },
+  {
+    "path": "fifo_uvm/docs/images/edgecase_log.png",
+    "archive_path": "03_fifo_uvm/학습자료/images/fifo_uvm/edgecase_log.png",
+    "sha256": "f5f87f04eede1832fb28494f0742151dd9d1f9ed1df1158ba13e6b9fcd193922"
+  },
+  {
+    "path": "fifo_uvm/docs/images/simulation_fullshot.png",
+    "archive_path": "03_fifo_uvm/학습자료/images/fifo_uvm/simulation_fullshot.png",
+    "sha256": "b8efd791169c577427c735d5e89dd6f5a124db4e193b0820c3575c886e57e0b1"
+  }
+]

@@ -1,0 +1,6 @@
+{
+  "source": "historical VCS sim.log",
+  "rOnlyRandomPass": 30000,
+  "expectedZero": 28844,
+  "note": "Expected output zero count, not a measurement of all source registers or all CPU state"
+}

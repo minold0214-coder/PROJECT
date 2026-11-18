@@ -1,0 +1,210 @@
+UVM_INFO ./tb/tb_rv32i.sv(375) @ 2705086000: uvm_test_top.env.agt.mon [MON] PC=000580e0 instr=01edbab3 rf_we=0 rd=x21 data=00000006
+<slb!&*()_+>---<sls!&*()_+>loc: -1<sls!&*()_+>src: ./tb/tb_rv32i.sv<sls!&*()_+>line: 375<sls!&*()_+>time: 2705086000 ps<sls!&*()_+>length: 0<sls!&*()_+>...<sls!&*()_+><sle!&*()_+>
+<slp!&*()_+>
+UVM_INFO ./tb/tb_rv32i.sv(375) @ 2705096000: uvm_test_top.env.agt.mon [MON] PC=000580e0 instr=01edbab3 rf_we=1 rd=x21 data=00000000
+<slb!&*()_+>---<sls!&*()_+>loc: -1<sls!&*()_+>src: ./tb/tb_rv32i.sv<sls!&*()_+>line: 375<sls!&*()_+>time: 2705096000 ps<sls!&*()_+>length: 0<sls!&*()_+>...<sls!&*()_+><sle!&*()_+>
+<slp!&*()_+>
+UVM_INFO ./tb/tb_rv32i.sv(606) @ 2705096000: uvm_test_top.env.scb [SCB] PASS R_SLTU rd=x21 expected=00000000
+<slb!&*()_+>---<sls!&*()_+>loc: -1<sls!&*()_+>src: ./tb/tb_rv32i.sv<sls!&*()_+>line: 606<sls!&*()_+>time: 2705096000 ps<sls!&*()_+>length: 0<sls!&*()_+>...<sls!&*()_+><sle!&*()_+>
+<slp!&*()_+>
+UVM_INFO ./tb/tb_rv32i.sv(323) @ 2705100000: uvm_test_top.env.agt.drv [DRV] drive item : R_XOR rd=x0 rs1=x27 rs2=x9 imm=1338 shamt=13 insn=009dc033
+<slb!&*()_+>---<sls!&*()_+>loc: -1<sls!&*()_+>src: ./tb/tb_rv32i.sv<sls!&*()_+>line: 323<sls!&*()_+>time: 2705100000 ps<sls!&*()_+>length: 0<sls!&*()_+>...<sls!&*()_+><sle!&*()_+>
+<slp!&*()_+>
+UVM_INFO ./tb/tb_rv32i.sv(375) @ 2705106000: uvm_test_top.env.agt.mon [MON] PC=000580e0 instr=009dc033 rf_we=0 rd=x0 data=00000006
+<slb!&*()_+>---<sls!&*()_+>loc: -1<sls!&*()_+>src: ./tb/tb_rv32i.sv<sls!&*()_+>line: 375<sls!&*()_+>time: 2705106000 ps<sls!&*()_+>length: 0<sls!&*()_+>...<sls!&*()_+><sle!&*()_+>
+<slp!&*()_+>
+UVM_INFO ./tb/tb_rv32i.sv(375) @ 2705116000: uvm_test_top.env.agt.mon [MON] PC=000580e4 instr=009dc033 rf_we=0 rd=x0 data=00000004
+<slb!&*()_+>---<sls!&*()_+>loc: -1<sls!&*()_+>src: ./tb/tb_rv32i.sv<sls!&*()_+>line: 375<sls!&*()_+>time: 2705116000 ps<sls!&*()_+>length: 0<sls!&*()_+>...<sls!&*()_+><sle!&*()_+>
+<slp!&*()_+>
+UVM_INFO ./tb/tb_rv32i.sv(375) @ 2705126000: uvm_test_top.env.agt.mon [MON] PC=000580e4 instr=009dc033 rf_we=1 rd=x0 data=00000002
+<slb!&*()_+>---<sls!&*()_+>loc: -1<sls!&*()_+>src: ./tb/tb_rv32i.sv<sls!&*()_+>line: 375<sls!&*()_+>time: 2705126000 ps<sls!&*()_+>length: 0<sls!&*()_+>...<sls!&*()_+><sle!&*()_+>
+<slp!&*()_+>
+UVM_INFO ./tb/tb_rv32i.sv(606) @ 2705126000: uvm_test_top.env.scb [SCB] PASS R_XOR rd=x0 expected=00000002
+<slb!&*()_+>---<sls!&*()_+>loc: -1<sls!&*()_+>src: ./tb/tb_rv32i.sv<sls!&*()_+>line: 606<sls!&*()_+>time: 2705126000 ps<sls!&*()_+>length: 0<sls!&*()_+>...<sls!&*()_+><sle!&*()_+>
+<slp!&*()_+>
+UVM_INFO ./tb/tb_rv32i.sv(838) @ 2705130000: uvm_test_top [TEST] finished: issued=90170 checked=90170
+<slb!&*()_+>---<sls!&*()_+>loc: -1<sls!&*()_+>src: ./tb/tb_rv32i.sv<sls!&*()_+>line: 838<sls!&*()_+>time: 2705130000 ps<sls!&*()_+>length: 0<sls!&*()_+>...<sls!&*()_+><sle!&*()_+>
+<slp!&*()_+>
+UVM_INFO /tools/synopsys/vcs/W-2024.09-SP1/etc/uvm-1.2/base/uvm_objection.svh(1276) @ 2705130000: reporter [TEST_DONE] 'run' phase is ready to proceed to the 'extract' phase
+<slb!&*()_+>---<sls!&*()_+>loc: -1<sls!&*()_+>src: /tools/synopsys/vcs/W-2024.09-SP1/etc/uvm-1.2/base/uvm_root.svh<sls!&*()_+>line: 431<sls!&*()_+>time: 2705130000 ps<sls!&*()_+>length: 0<sls!&*()_+>...<sls!&*()_+><sle!&*()_+>
+<slp!&*()_+>
+UVM_INFO ./tb/tb_rv32i.sv(748) @ 2705130000: uvm_test_top.env.cov [COV] 
+[COV] Overall   = 99.56%
+[COV] Operation = 100.00%
+[COV] rd        = 100.00%
+[COV] rs1       = 100.00%
+[COV] rs2       = 100.00%
+[COV] Shift     = 100.00%
+[COV] Immediate = 100.00%
+[COV] Shift op x amount    = 100.00%
+[COV] Compare op x relation = 100.00%
+[COV] Operation x src1 kind = 99.25%
+[COV] R-ALU op x src2 kind  = 95.92%
+[COV] I-ALU op x immediate  = 100.00%
+
+<slb!&*()_+>---<sls!&*()_+>loc: -1<sls!&*()_+>src: ./tb/tb_rv32i.sv<sls!&*()_+>line: 748<sls!&*()_+>time: 2705130000 ps<sls!&*()_+>length: 0<sls!&*()_+>...<sls!&*()_+><sle!&*()_+>
+<slp!&*()_+>
+UVM_INFO ./tb/tb_rv32i.sv(623) @ 2705130000: uvm_test_top.env.scb [SCB_RESULT] CHECKED=90170 PASS=90170 FAIL=0
+<slb!&*()_+>---<sls!&*()_+>loc: -1<sls!&*()_+>src: ./tb/tb_rv32i.sv<sls!&*()_+>line: 623<sls!&*()_+>time: 2705130000 ps<sls!&*()_+>length: 0<sls!&*()_+>...<sls!&*()_+><sle!&*()_+>
+<slp!&*()_+>
+UVM_INFO /tools/synopsys/vcs/W-2024.09-SP1/etc/uvm-1.2/base/uvm_report_catcher.svh(705) @ 2705130000: reporter [UVM/REPORT/CATCHER] 
+--- UVM Report catcher Summary ---
+
+
+Number of demoted UVM_FATAL reports  :    0
+Number of demoted UVM_ERROR reports  :    0
+Number of demoted UVM_WARNING reports:    0
+Number of caught UVM_FATAL reports   :    0
+Number of caught UVM_ERROR reports   :    0
+Number of caught UVM_WARNING reports :    0
+
+<slb!&*()_+>---<sls!&*()_+>loc: -1<sls!&*()_+>src: /tools/synopsys/vcs/W-2024.09-SP1/etc/uvm-1.2/base/uvm_report_catcher.svh<sls!&*()_+>line: 705<sls!&*()_+>time: 2705130000 ps<sls!&*()_+>length: 0<sls!&*()_+>...<sls!&*()_+><sle!&*()_+>
+<slp!&*()_+>
+UVM_INFO /tools/synopsys/vcs/W-2024.09-SP1/etc/uvm-1.2/base/uvm_report_server.svh(904) @ 2705130000: reporter [UVM/REPORT/SERVER] 
+--- UVM Report Summary ---
+
+** Report counts by severity
+UVM_INFO :450869
+UVM_WARNING :    0
+UVM_ERROR :    0
+UVM_FATAL :    0
+** Report counts by id
+[COV]     1
+[DRV] 90170
+[MON] 270513
+[RNTST]     1
+[SCB] 90170
+[SCB_RESULT]     1
+[SEQ]     8
+[TEST]     2
+[TEST_DONE]     1
+[UVM/RELNOTES]     1
+[UVM/REPORT/CATCHER]     1
+
+<slb!&*()_+>---<sls!&*()_+>loc: -1<sls!&*()_+>src: /tools/synopsys/vcs/W-2024.09-SP1/etc/uvm-1.2/base/uvm_root.svh<sls!&*()_+>line: 524<sls!&*()_+>time: 2705130000 ps<sls!&*()_+>length: 0<sls!&*()_+>...<sls!&*()_+><sle!&*()_+>
+$finish called from file "/tools/synopsys/vcs/W-2024.09-SP1/etc/uvm-1.2/base/uvm_root.svh", line 527.
+$finish at simulation time           2705130000
+Simulation complete, time is 2705130000 ps.
+uvm_root.svh, 527 :     $finish;
+
+ucli% synEnv::hasFataled
+0
+ucli% ucliCore::getToolPID
+688044
+ucli% save::getUserdefinedProcs
+::stateVerdiChangeCB ::LoadFSDBDumpCmd
+ucli% if {[catch {ucliCore::setFocus tool}]} {}
+
+ucli% fsdbDumpflush 
+*Verdi* : Flush all FSDB Files at 2,705,130,000 ps.
+
+ucli% senv
+activeDomain: TB
+activeFile: /tools/synopsys/vcs/W-2024.09-SP1/etc/uvm-1.2/base/uvm_root.svh
+activeFrame: 2
+activeLine: 527
+activeScope: uvm_pkg.\uvm_root::run_test 
+activeThread: 26
+endCol: 0
+file: /tools/synopsys/vcs/W-2024.09-SP1/etc/uvm-1.2/base/uvm_root.svh
+frame: 2
+fsdbFilename: 
+hasTB: 1
+inputFilename: 
+keyFilename: ucli.key
+line: 527
+logFilename: /home/aedu09/aedu09/project_rv32i_cpu/verdiLog/sim.log
+macroIndex: -1
+macroOffset: -1
+pid: 688044
+scope: uvm_pkg.\uvm_root::run_test 
+startCol: 0
+state: stopped
+thread: 26
+time: 2705130000
+timePrecision: 1 ps
+vcdFilename: 
+vpdFilename:
+ucli% puts $::ucliCore::cbug_active
+0
+
+ucli% if {[catch {ucliCore::setFocus tool}]} {}
+
+ucli% checkpoint -list -all
+There are no checkpoints present.
+ucli% if {[catch {ucliCore::setFocus tool}]} {}
+
+ucli% stop
+No stop points are set
+ucli% if {[catch {ucliCore::setFocus tool}]} {}
+
+ucli% fsdbDumpvars 1 "rv32i_top.U_RV32I_CPU"  +all +trace_process;fsdbDumpflush 
+*Verdi* : Begin traversing the scope (rv32i_top.U_RV32I_CPU), layer (1).
+*Verdi* : Enable +trace_process and +all dumping.
+*Verdi* : End of traversing.
+*Verdi* : Flush all FSDB Files at 2,705,130,000 ps.
+
+ucli% if {[catch {ucliCore::setFocus tool}]} {}
+
+ucli% fsdbDumpvars 1 "tb_rv32i.dut"  +all +trace_process;fsdbDumpflush 
+*Verdi* : Begin traversing the scope (tb_rv32i.dut), layer (1).
+*Verdi* : Enable +trace_process and +all dumping.
+*Verdi* : End of traversing.
+*Verdi* : Flush all FSDB Files at 2,705,130,000 ps.
+
+ucli% if {[catch {ucliCore::setFocus tool}]} {}
+
+ucli% fsdbDumpvars 1 "tb_rv32i"  +all +trace_process;fsdbDumpflush 
+*Verdi* : Begin traversing the scope (tb_rv32i), layer (1).
+*Verdi* : Enable +trace_process and +all dumping.
+*Verdi* : End of traversing.
+*Verdi* : Flush all FSDB Files at 2,705,130,000 ps.
+
+ucli% fsdbDumpvars 1 "rv32i_top.U_RV32I_CPU"  +all +trace_process;fsdbDumpflush 
+*Verdi* : Begin traversing the scope (rv32i_top.U_RV32I_CPU), layer (1).
+*Verdi* : Enable +trace_process and +all dumping.
+*Verdi* : End of traversing.
+*Verdi* : Flush all FSDB Files at 2,705,130,000 ps.
+
+ucli% if {[catch {ucliCore::setFocus tool}]} {}
+
+ucli% fsdbDumpvars 1 "tb_rv32i.dut"  +all +trace_process;fsdbDumpflush 
+*Verdi* : Begin traversing the scope (tb_rv32i.dut), layer (1).
+*Verdi* : Enable +trace_process and +all dumping.
+*Verdi* : End of traversing.
+*Verdi* : Flush all FSDB Files at 2,705,130,000 ps.
+
+ucli% if {[catch {ucliCore::setFocus tool}]} {}
+
+ucli% fsdbDumpvars 1 "tb_rv32i.cpu_if"  +all +trace_process;fsdbDumpflush 
+*Verdi* : Begin traversing the scope (tb_rv32i.cpu_if), layer (1).
+*Verdi* : Enable +trace_process and +all dumping.
+*Verdi* : End of traversing.
+*Verdi* : Flush all FSDB Files at 2,705,130,000 ps.
+
+ucli% if {[catch {ucliCore::setFocus tool}]} {}
+
+ucli% fsdbDumpvars 1 "rv32i_top.U_RV32I_CPU.U_CONTROL_UNIT"  +all +trace_process;fsdbDumpflush 
+*Verdi* : Begin traversing the scope (rv32i_top.U_RV32I_CPU.U_CONTROL_UNIT), layer (1).
+*Verdi* : Enable +trace_process and +all dumping.
+*Verdi* : End of traversing.
+*Verdi* : Flush all FSDB Files at 2,705,130,000 ps.
+
+ucli% if {[catch {ucliCore::setFocus tool}]} {}
+
+ucli% fsdbDumpvars 1 "tb_rv32i.dut.U_DATAPATH"  +all +trace_process;fsdbDumpflush 
+*Verdi* : Begin traversing the scope (tb_rv32i.dut.U_DATAPATH), layer (1).
+*Verdi* : Enable +trace_process and +all dumping.
+*Verdi* : End of traversing.
+*Verdi* : Flush all FSDB Files at 2,705,130,000 ps.
+
+ucli% if {[catch {ucliCore::setFocus tool}]} {}
+
+ucli% finish; quit
+           V C S   S i m u l a t i o n   R e p o r t 
+Time: 2705130000 ps
+CPU Time:     19.440 seconds;       Data structure size:   0.6Mb
+Tue Sep 15 16:43:00 2026
+
+<VERDI_Terminated>
+

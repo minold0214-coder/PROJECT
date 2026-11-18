@@ -1,0 +1,10 @@
++incdir+rtl
++incdir+rtl/pkg
++incdir+tb
+rtl/pkg/rv32i_pkg.sv
+rtl/control_unit.sv
+rtl/datapath.sv
+rtl/data_memory.sv
+rtl/rv32i_cpu.sv
+rtl/instruction_rom.sv
+tb/tb_rv32i.sv
